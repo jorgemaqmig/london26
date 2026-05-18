@@ -1,0 +1,6 @@
+/* App-level styles - main styles are in index.css */
+
+.app {
+  min-height: 100vh;
+  position: relative;
+}
