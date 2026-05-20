@@ -26,10 +26,6 @@ const fallbackGridPhotos = [
 ];
 
 export default function Hero() {
-  const [gridPhotos, setGridPhotos] = useState([]);
-  const [fadingIndex, setFadingIndex] = useState(null);
-  const timeoutRef = useRef(null);
-
   // 1. Gather all real uploaded photos dynamically across all days
   const getPoolPhotos = () => {
     const allPhotos = [];
@@ -57,13 +53,14 @@ export default function Hero() {
 
   const pool = getPoolPhotos();
 
-  // Initialize the grid photos once on mount
-  useEffect(() => {
-    const initialPhotosSpread = Array.from({ length: 20 }, (_, i) => {
-      return pool[i % pool.length];
+  const [gridPhotos, setGridPhotos] = useState(() => {
+    return Array.from({ length: 20 }, () => {
+      const randomIndex = Math.floor(Math.random() * pool.length);
+      return pool[randomIndex];
     });
-    setGridPhotos(initialPhotosSpread);
-  }, []);
+  });
+  const [fadingIndex, setFadingIndex] = useState(null);
+  const timeoutRef = useRef(null);
 
   // Centralized Master Scheduler to change exactly ONE photo at a time
   useEffect(() => {

@@ -1,7 +1,6 @@
 import { useEffect, useRef } from 'react';
 import RouteMap from './RouteMap';
 import PhotoGallery from './PhotoGallery';
-import { photosData } from '../data/photosData';
 
 export default function DaySection({ dayData }) {
   const sectionRef = useRef(null);
@@ -32,25 +31,7 @@ export default function DaySection({ dayData }) {
     4: '#701364ff',
   };
 
-  // Get all photos for this day (both root files and inside subfolders)
-  const getDayPhotos = () => {
-    const dayMedia = photosData && photosData[dayData.day];
-    if (!dayMedia) return dayData.photos;
 
-    const list = [];
-    if (dayMedia.general) {
-      list.push(...dayMedia.general);
-    }
-    if (dayMedia.stops) {
-      Object.values(dayMedia.stops).forEach((stopMedia) => {
-        list.push(...stopMedia);
-      });
-    }
-
-    return list.length > 0 ? list : dayData.photos;
-  };
-
-  const displayPhotos = getDayPhotos();
 
   return (
     <section
