@@ -16,9 +16,7 @@ const slugify = (text) => {
     .toLowerCase()
     .normalize('NFD')
     .replace(/[\u0300-\u036f]/g, '') // Remove accents
-    .replace(/[^a-z0-9]/g, '_')
-    .replace(/_+/g, '_')
-    .trim();
+    .replace(/[^a-z0-9]/g, ''); // Remove everything except a-z0-9
 };
 
 const getStopPhotos = (dayNum, stopName) => {
@@ -30,7 +28,7 @@ const getStopPhotos = (dayNum, stopName) => {
   // Find a subfolder that matches the stop name
   const matchingFolder = Object.keys(dayMedia.stops).find((folderName) => {
     const folderSlug = slugify(folderName);
-    const cleanFolder = folderSlug.replace(/^\d+_/, ''); // Remove number prefix like "04_"
+    const cleanFolder = folderSlug.replace(/^\d+/, ''); // Remove number prefix like "02"
     return (
       folderSlug.includes(stopSlug) ||
       stopSlug.includes(folderSlug) ||

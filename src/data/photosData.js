@@ -10,9 +10,49 @@ export const photosData = {
         "caption": "a_IMG_6746"
       },
       {
-        "src": "/photos/day1/a_IMG_6767.jpg",
+        "src": "/photos/day1/IMG_1.jpeg",
         "type": "image",
-        "caption": "a_IMG_6767"
+        "caption": "IMG_1"
+      },
+      {
+        "src": "/photos/day1/IMG_2.jpeg",
+        "type": "image",
+        "caption": "IMG_2"
+      },
+      {
+        "src": "/photos/day1/IMG_3.jpeg",
+        "type": "image",
+        "caption": "IMG_3"
+      },
+      {
+        "src": "/photos/day1/IMG_4.jpeg",
+        "type": "image",
+        "caption": "IMG_4"
+      },
+      {
+        "src": "/photos/day1/IMG_5.jpeg",
+        "type": "image",
+        "caption": "IMG_5"
+      },
+      {
+        "src": "/photos/day1/IMG_6.jpeg",
+        "type": "image",
+        "caption": "IMG_6"
+      },
+      {
+        "src": "/photos/day1/IMG_7.jpeg",
+        "type": "image",
+        "caption": "IMG_7"
+      },
+      {
+        "src": "/photos/day1/IMG_8.jpeg",
+        "type": "image",
+        "caption": "IMG_8"
+      },
+      {
+        "src": "/photos/day1/IMG_9.jpeg",
+        "type": "image",
+        "caption": "IMG_9"
       },
       {
         "src": "/photos/day1/IMG_6760.jpg",
@@ -25,9 +65,24 @@ export const photosData = {
         "caption": "IMG_6764"
       },
       {
+        "src": "/photos/day1/IMG_6766.jpeg",
+        "type": "image",
+        "caption": "IMG_6766"
+      },
+      {
+        "src": "/photos/day1/IMG_6767.jpg",
+        "type": "image",
+        "caption": "IMG_6767"
+      },
+      {
         "src": "/photos/day1/IMG_6768.jpg",
         "type": "image",
         "caption": "IMG_6768"
+      },
+      {
+        "src": "/photos/day1/IMG_6769.jpeg",
+        "type": "image",
+        "caption": "IMG_6769"
       },
       {
         "src": "/photos/day1/IMG_6774.jpg",
@@ -160,6 +215,11 @@ export const photosData = {
         "caption": "IMG_6876"
       },
       {
+        "src": "/photos/day1/IMG_6877.jpeg",
+        "type": "image",
+        "caption": "IMG_6877"
+      },
+      {
         "src": "/photos/day1/IMG_6880.jpg",
         "type": "image",
         "caption": "IMG_6880"
@@ -210,6 +270,11 @@ export const photosData = {
         "caption": "IMG_6928"
       },
       {
+        "src": "/photos/day1/IMG_6929.jpeg",
+        "type": "image",
+        "caption": "IMG_6929"
+      },
+      {
         "src": "/photos/day1/IMG_6933.jpg",
         "type": "image",
         "caption": "IMG_6933"
@@ -258,6 +323,11 @@ export const photosData = {
         "src": "/photos/day1/IMG_6953.jpg",
         "type": "image",
         "caption": "IMG_6953"
+      },
+      {
+        "src": "/photos/day1/IMG_6954.jpeg",
+        "type": "image",
+        "caption": "IMG_6954"
       }
     ],
     "stops": {
@@ -353,15 +423,66 @@ export const photosData = {
           "caption": "IMG_6955"
         }
       ],
-      "videos": []
+      "videos": [
+        {
+          "src": "/photos/day1/videos/VID_1.mp4",
+          "type": "video",
+          "caption": "VID_1"
+        },
+        {
+          "src": "/photos/day1/videos/VID_2.mp4",
+          "type": "video",
+          "caption": "VID_2"
+        },
+        {
+          "src": "/photos/day1/videos/VID_3.mp4",
+          "type": "video",
+          "caption": "VID_3"
+        },
+        {
+          "src": "/photos/day1/videos/VID_4.mp4",
+          "type": "video",
+          "caption": "VID_4"
+        },
+        {
+          "src": "/photos/day1/videos/VID_5.mp4",
+          "type": "video",
+          "caption": "VID_5"
+        },
+        {
+          "src": "/photos/day1/videos/VID_6.mp4",
+          "type": "video",
+          "caption": "VID_6"
+        }
+      ]
     }
   },
   "2": {
     "general": [
       {
-        "src": "/photos/day2/IMG_6960.jpg",
+        "src": "/photos/day2/IMG_6959.jpg",
+        "type": "image",
+        "caption": "IMG_6959"
+      },
+      {
+        "src": "/photos/day2/IMG_6960.jpeg",
         "type": "image",
         "caption": "IMG_6960"
+      },
+      {
+        "src": "/photos/day2/IMG_6961.jpeg",
+        "type": "image",
+        "caption": "IMG_6961"
+      },
+      {
+        "src": "/photos/day2/IMG_6962.jpeg",
+        "type": "image",
+        "caption": "IMG_6962"
+      },
+      {
+        "src": "/photos/day2/IMG_6963.jpeg",
+        "type": "image",
+        "caption": "IMG_6963"
       },
       {
         "src": "/photos/day2/IMG_6964.jpg",
@@ -434,6 +555,16 @@ export const photosData = {
         "caption": "IMG_6987"
       },
       {
+        "src": "/photos/day2/IMG_6988.jpeg",
+        "type": "image",
+        "caption": "IMG_6988"
+      },
+      {
+        "src": "/photos/day2/IMG_6989.jpeg",
+        "type": "image",
+        "caption": "IMG_6989"
+      },
+      {
         "src": "/photos/day2/IMG_6990.jpg",
         "type": "image",
         "caption": "IMG_6990"
@@ -489,6 +620,11 @@ export const photosData = {
         "caption": "IMG_7171"
       },
       {
+        "src": "/photos/day2/IMG_7172.jpeg",
+        "type": "image",
+        "caption": "IMG_7172"
+      },
+      {
         "src": "/photos/day2/IMG_7173.jpg",
         "type": "image",
         "caption": "IMG_7173"
@@ -527,7 +663,13 @@ export const photosData = {
           "caption": "IMG_6956"
         }
       ],
-      "02_kings_cross": [],
+      "02_kings_cross": [
+        {
+          "src": "/photos/day2/02_kings_cross/IMG_6957.jpeg",
+          "type": "image",
+          "caption": "IMG_6957"
+        }
+      ],
       "03_anden_9_3_4": [
         {
           "src": "/photos/day2/03_anden_9_3_4/IMG_6958.jpg",
@@ -549,7 +691,13 @@ export const photosData = {
           "caption": "IMG_6975"
         }
       ],
-      "06_abbey_road": [],
+      "06_abbey_road": [
+        {
+          "src": "/photos/day2/06_abbey_road/WhatsApp Image 2026-05-20 at 13.46.33.jpeg",
+          "type": "image",
+          "caption": "WhatsApp Image 2026-05-20 at 13.46.33"
+        }
+      ],
       "07_natural_history_museum": [
         {
           "src": "/photos/day2/07_natural_history_museum/IMG_6981.jpg",
@@ -578,11 +726,47 @@ export const photosData = {
           "caption": "IMG_7172"
         }
       ],
-      "videos": []
+      "videos": [
+        {
+          "src": "/photos/day2/videos/VID_1.mp4",
+          "type": "video",
+          "caption": "VID_1"
+        },
+        {
+          "src": "/photos/day2/videos/VID_2.mp4",
+          "type": "video",
+          "caption": "VID_2"
+        },
+        {
+          "src": "/photos/day2/videos/VID_3.mp4",
+          "type": "video",
+          "caption": "VID_3"
+        },
+        {
+          "src": "/photos/day2/videos/VID_4.mp4",
+          "type": "video",
+          "caption": "VID_4"
+        },
+        {
+          "src": "/photos/day2/videos/VID_5.mp4",
+          "type": "video",
+          "caption": "VID_5"
+        }
+      ]
     }
   },
   "3": {
     "general": [
+      {
+        "src": "/photos/day3/IMG_7197.jpeg",
+        "type": "image",
+        "caption": "IMG_7197"
+      },
+      {
+        "src": "/photos/day3/IMG_7198.jpeg",
+        "type": "image",
+        "caption": "IMG_7198"
+      },
       {
         "src": "/photos/day3/IMG_7199.jpg",
         "type": "image",
@@ -599,9 +783,24 @@ export const photosData = {
         "caption": "IMG_7205"
       },
       {
+        "src": "/photos/day3/IMG_7206.jpeg",
+        "type": "image",
+        "caption": "IMG_7206"
+      },
+      {
+        "src": "/photos/day3/IMG_7207.jpeg",
+        "type": "image",
+        "caption": "IMG_7207"
+      },
+      {
         "src": "/photos/day3/IMG_7208.jpg",
         "type": "image",
         "caption": "IMG_7208"
+      },
+      {
+        "src": "/photos/day3/IMG_7209.jpeg",
+        "type": "image",
+        "caption": "IMG_7209"
       },
       {
         "src": "/photos/day3/IMG_7211.jpg",
@@ -639,11 +838,6 @@ export const photosData = {
         "caption": "IMG_7226"
       },
       {
-        "src": "/photos/day3/IMG_7228.MOV",
-        "type": "video",
-        "caption": "IMG_7228"
-      },
-      {
         "src": "/photos/day3/IMG_7231.jpg",
         "type": "image",
         "caption": "IMG_7231"
@@ -659,9 +853,19 @@ export const photosData = {
         "caption": "IMG_7245"
       },
       {
+        "src": "/photos/day3/IMG_7246.jpeg",
+        "type": "image",
+        "caption": "IMG_7246"
+      },
+      {
         "src": "/photos/day3/IMG_7248.jpg",
         "type": "image",
         "caption": "IMG_7248"
+      },
+      {
+        "src": "/photos/day3/IMG_7249.jpeg",
+        "type": "image",
+        "caption": "IMG_7249"
       },
       {
         "src": "/photos/day3/IMG_7250.jpg",
@@ -672,6 +876,16 @@ export const photosData = {
         "src": "/photos/day3/IMG_7251.jpg",
         "type": "image",
         "caption": "IMG_7251"
+      },
+      {
+        "src": "/photos/day3/IMG_7252.jpeg",
+        "type": "image",
+        "caption": "IMG_7252"
+      },
+      {
+        "src": "/photos/day3/IMG_7253.jpeg",
+        "type": "image",
+        "caption": "IMG_7253"
       },
       {
         "src": "/photos/day3/IMG_7259.jpg",
@@ -689,6 +903,11 @@ export const photosData = {
         "caption": "IMG_7271"
       },
       {
+        "src": "/photos/day3/IMG_7272.jpeg",
+        "type": "image",
+        "caption": "IMG_7272"
+      },
+      {
         "src": "/photos/day3/IMG_7276.jpg",
         "type": "image",
         "caption": "IMG_7276"
@@ -699,14 +918,24 @@ export const photosData = {
         "caption": "IMG_7277"
       },
       {
+        "src": "/photos/day3/IMG_7278.jpeg",
+        "type": "image",
+        "caption": "IMG_7278"
+      },
+      {
         "src": "/photos/day3/IMG_7284.JPG",
         "type": "image",
         "caption": "IMG_7284"
       },
       {
-        "src": "/photos/day3/IMG_7287.MOV",
-        "type": "video",
+        "src": "/photos/day3/IMG_7287.jpeg",
+        "type": "image",
         "caption": "IMG_7287"
+      },
+      {
+        "src": "/photos/day3/IMG_7288.jpeg",
+        "type": "image",
+        "caption": "IMG_7288"
       },
       {
         "src": "/photos/day3/IMG_7289.jpg",
@@ -724,14 +953,19 @@ export const photosData = {
         "caption": "IMG_7293"
       },
       {
-        "src": "/photos/day3/IMG_7293.MOV",
-        "type": "video",
-        "caption": "IMG_7293"
-      },
-      {
         "src": "/photos/day3/IMG_7303.jpg",
         "type": "image",
         "caption": "IMG_7303"
+      },
+      {
+        "src": "/photos/day3/IMG_7305.jpeg",
+        "type": "image",
+        "caption": "IMG_7305"
+      },
+      {
+        "src": "/photos/day3/IMG_7306.jpeg",
+        "type": "image",
+        "caption": "IMG_7306"
       },
       {
         "src": "/photos/day3/IMG_7308.jpg",
@@ -767,6 +1001,11 @@ export const photosData = {
         "src": "/photos/day3/IMG_7447.jpg",
         "type": "image",
         "caption": "IMG_7447"
+      },
+      {
+        "src": "/photos/day3/IMG_7481.jpeg",
+        "type": "image",
+        "caption": "IMG_7481"
       },
       {
         "src": "/photos/day3/IMG_7482.jpg",
@@ -824,7 +1063,13 @@ export const photosData = {
           "caption": "IMG_7292"
         }
       ],
-      "08_canary_wharf": [],
+      "08_canary_wharf": [
+        {
+          "src": "/photos/day3/08_canary_wharf/IMG_7304.jpeg",
+          "type": "image",
+          "caption": "IMG_7304"
+        }
+      ],
       "09_londres_de_noche": [
         {
           "src": "/photos/day3/09_londres_de_noche/IMG_7337.jpg",
@@ -832,7 +1077,58 @@ export const photosData = {
           "caption": "IMG_7337"
         }
       ],
-      "videos": []
+      "videos": [
+        {
+          "src": "/photos/day3/videos/VID_0.mp4",
+          "type": "video",
+          "caption": "VID_0"
+        },
+        {
+          "src": "/photos/day3/videos/VID_1.mp4",
+          "type": "video",
+          "caption": "VID_1"
+        },
+        {
+          "src": "/photos/day3/videos/VID_2.mp4",
+          "type": "video",
+          "caption": "VID_2"
+        },
+        {
+          "src": "/photos/day3/videos/VID_3.mp4",
+          "type": "video",
+          "caption": "VID_3"
+        },
+        {
+          "src": "/photos/day3/videos/VID_4.mp4",
+          "type": "video",
+          "caption": "VID_4"
+        },
+        {
+          "src": "/photos/day3/videos/VID_5.mp4",
+          "type": "video",
+          "caption": "VID_5"
+        },
+        {
+          "src": "/photos/day3/videos/VID_6.mp4",
+          "type": "video",
+          "caption": "VID_6"
+        },
+        {
+          "src": "/photos/day3/videos/VID_7.mp4",
+          "type": "video",
+          "caption": "VID_7"
+        },
+        {
+          "src": "/photos/day3/videos/VID_8.mp4",
+          "type": "video",
+          "caption": "VID_8"
+        },
+        {
+          "src": "/photos/day3/videos/VID_9.mp4",
+          "type": "video",
+          "caption": "VID_9"
+        }
+      ]
     }
   },
   "4": {
@@ -853,6 +1149,11 @@ export const photosData = {
         "caption": "IMG_7488"
       },
       {
+        "src": "/photos/day4/IMG_7489.jpeg",
+        "type": "image",
+        "caption": "IMG_7489"
+      },
+      {
         "src": "/photos/day4/IMG_7491.jpg",
         "type": "image",
         "caption": "IMG_7491"
@@ -861,6 +1162,21 @@ export const photosData = {
         "src": "/photos/day4/IMG_7492.jpg",
         "type": "image",
         "caption": "IMG_7492"
+      },
+      {
+        "src": "/photos/day4/IMG_7493.jpeg",
+        "type": "image",
+        "caption": "IMG_7493"
+      },
+      {
+        "src": "/photos/day4/IMG_7494.jpeg",
+        "type": "image",
+        "caption": "IMG_7494"
+      },
+      {
+        "src": "/photos/day4/IMG_7495.jpeg",
+        "type": "image",
+        "caption": "IMG_7495"
       }
     ],
     "stops": {
@@ -871,7 +1187,13 @@ export const photosData = {
           "caption": "IMG_7484"
         }
       ],
-      "02_tienda_m_m_s": [],
+      "02_tienda_m_m_s": [
+        {
+          "src": "/photos/day4/02_tienda_m_m_s/IMG_7497.jpeg",
+          "type": "image",
+          "caption": "IMG_7497"
+        }
+      ],
       "03_chinatown_comida": [
         {
           "src": "/photos/day4/03_chinatown_comida/IMG_7487.jpg",
@@ -893,8 +1215,20 @@ export const photosData = {
           "caption": "IMG_7493"
         }
       ],
-      "06_aeropuerto": [],
-      "videos": []
+      "06_aeropuerto": [
+        {
+          "src": "/photos/day4/06_aeropuerto/WhatsApp Image 2026-05-20 at 11.48.13.jpeg",
+          "type": "image",
+          "caption": "WhatsApp Image 2026-05-20 at 11.48.13"
+        }
+      ],
+      "videos": [
+        {
+          "src": "/photos/day4/videos/WhatsApp Video 2026-05-20 at 11.47.38.mp4",
+          "type": "video",
+          "caption": "WhatsApp Video 2026-05-20 at 11.47.38"
+        }
+      ]
     }
   }
 };
