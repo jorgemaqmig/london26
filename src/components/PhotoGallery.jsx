@@ -209,8 +209,17 @@ export default function PhotoGallery({ dayNum, places, dayAccent }) {
                     className={`lightbox__thumbnail-dot ${idx === activeMediaIndex ? 'active' : ''}`}
                     onClick={() => setActiveMediaIndex(idx)}
                   >
-                    {item.type === 'video' ? '🎥' : null}
-                    <img src={item.src} alt="" onError={(e) => e.target.style.display = 'none'} />
+                    {item.type === 'video' ? (
+                      <video
+                        src={item.src}
+                        preload="metadata"
+                        muted
+                        playsInline
+                        onLoadedMetadata={(e) => { e.target.currentTime = 0.5; }}
+                      />
+                    ) : (
+                      <img src={item.src} alt="" onError={(e) => e.target.style.display = 'none'} />
+                    )}
                   </div>
                 ))}
               </div>
