@@ -26,8 +26,3 @@ dist-ssr
 # Heavy Media / Videos
 *.mov
 *.MOV
-*.mp4
-*.MP4
-*.webm
-public/photos/**/videos/*
-**/videos/*
