@@ -264,9 +264,12 @@ function MediaWithFallback({ src, type, alt, className, large }) {
   const isVideo = type === 'video' || src.toLowerCase().endsWith('.mov') || src.toLowerCase().endsWith('.mp4') || src.toLowerCase().endsWith('.webm');
 
   if (isVideo) {
+    // Hack para Safari/iOS: Forzar que cargue el primer frame añadiendo #t=0.001 a la URL
+    const videoSrc = src.includes('#t=') ? src : `${src}#t=0.001`;
+
     return (
       <video
-        src={src}
+        src={videoSrc}
         className={className}
         onError={() => setHasError(true)}
         preload="metadata"
@@ -275,6 +278,9 @@ function MediaWithFallback({ src, type, alt, className, large }) {
         controls={large}
         autoPlay={large}
         loop={large}
+        onLoadedMetadata={(e) => {
+          if (!large) e.target.currentTime = 0.1;
+        }}
         style={large ? { maxHeight: '52vh', width: 'auto', background: '#000', borderRadius: '8px' } : { objectFit: 'cover' }}
       />
     );
