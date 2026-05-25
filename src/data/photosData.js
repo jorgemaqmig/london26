@@ -425,9 +425,14 @@ export const photosData = {
       ],
       "videos": [
         {
-          "src": "/photos/day1/videos/VID_01.mp4",
+          "src": "/photos/day1/videos/VID_0.mp4",
           "type": "video",
-          "caption": "VID_01"
+          "caption": "VID_0"
+        },
+        {
+          "src": "/photos/day1/videos/VID_1.mp4",
+          "type": "video",
+          "caption": "VID_1"
         },
         {
           "src": "/photos/day1/videos/VID_2.mp4",
@@ -450,9 +455,39 @@ export const photosData = {
           "caption": "VID_5"
         },
         {
+          "src": "/photos/day1/videos/VID_6.mp4",
+          "type": "video",
+          "caption": "VID_6"
+        },
+        {
           "src": "/photos/day1/videos/VID_7.mp4",
           "type": "video",
           "caption": "VID_7"
+        },
+        {
+          "src": "/photos/day1/videos/VID_8.mp4",
+          "type": "video",
+          "caption": "VID_8"
+        },
+        {
+          "src": "/photos/day1/videos/VID_9.mp4",
+          "type": "video",
+          "caption": "VID_9"
+        },
+        {
+          "src": "/photos/day1/videos/VID_10.mp4",
+          "type": "video",
+          "caption": "VID_10"
+        },
+        {
+          "src": "/photos/day1/videos/VID_11.mp4",
+          "type": "video",
+          "caption": "VID_11"
+        },
+        {
+          "src": "/photos/day1/videos/VID_12.mp4",
+          "type": "video",
+          "caption": "VID_12"
         }
       ]
     }
@@ -728,6 +763,11 @@ export const photosData = {
       ],
       "videos": [
         {
+          "src": "/photos/day2/videos/VID_0.mp4",
+          "type": "video",
+          "caption": "VID_0"
+        },
+        {
           "src": "/photos/day2/videos/VID_1.mp4",
           "type": "video",
           "caption": "VID_1"
@@ -751,6 +791,16 @@ export const photosData = {
           "src": "/photos/day2/videos/VID_5.mp4",
           "type": "video",
           "caption": "VID_5"
+        },
+        {
+          "src": "/photos/day2/videos/VID_6.mp4",
+          "type": "video",
+          "caption": "VID_6"
+        },
+        {
+          "src": "/photos/day2/videos/VID_7.mp4",
+          "type": "video",
+          "caption": "VID_7"
         }
       ]
     }
@@ -1127,6 +1177,46 @@ export const photosData = {
           "src": "/photos/day3/videos/VID_9.mp4",
           "type": "video",
           "caption": "VID_9"
+        },
+        {
+          "src": "/photos/day3/videos/VID_10.mp4",
+          "type": "video",
+          "caption": "VID_10"
+        },
+        {
+          "src": "/photos/day3/videos/VID_11.mp4",
+          "type": "video",
+          "caption": "VID_11"
+        },
+        {
+          "src": "/photos/day3/videos/VID_12.mp4",
+          "type": "video",
+          "caption": "VID_12"
+        },
+        {
+          "src": "/photos/day3/videos/VID_13.mp4",
+          "type": "video",
+          "caption": "VID_13"
+        },
+        {
+          "src": "/photos/day3/videos/VID_14.mp4",
+          "type": "video",
+          "caption": "VID_14"
+        },
+        {
+          "src": "/photos/day3/videos/VID_15.mp4",
+          "type": "video",
+          "caption": "VID_15"
+        },
+        {
+          "src": "/photos/day3/videos/VID_16.mp4",
+          "type": "video",
+          "caption": "VID_16"
+        },
+        {
+          "src": "/photos/day3/videos/VID_17.mp4",
+          "type": "video",
+          "caption": "VID_17"
         }
       ]
     }
@@ -1224,9 +1314,14 @@ export const photosData = {
       ],
       "videos": [
         {
-          "src": "/photos/day4/videos/WhatsApp Video 2026-05-20 at 11.47.38.mp4",
+          "src": "/photos/day4/videos/VID_0.mp4",
           "type": "video",
-          "caption": "WhatsApp Video 2026-05-20 at 11.47.38"
+          "caption": "VID_0"
+        },
+        {
+          "src": "/photos/day4/videos/VID_1.mp4",
+          "type": "video",
+          "caption": "VID_1"
         }
       ]
     }
