@@ -51,12 +51,6 @@ const tripData = [
         photo: '/photos/day1/londoneye.jpg',
       },
       {
-        name: 'Memorial COVID',
-        description: 'El muro conmemorativo a los fallecidos del COVID junto al Támesis.',
-        coords: [51.5012, -0.1187],
-        photo: '/photos/day1/covidwall.jpg',
-      },
-      {
         name: 'Trafalgar Square',
         description: 'La plaza más famosa de Londres con la columna de Nelson.',
         coords: [51.5080, -0.1281],
