@@ -425,9 +425,34 @@ export const photosData = {
       ],
       "videos": [
         {
-          "src": "/photos/day1/videos/VID_1.mp4",
+          "src": "/photos/day1/videos/VID_0.MOV",
+          "type": "video",
+          "caption": "VID_0"
+        },
+        {
+          "src": "/photos/day1/videos/VID_00001.MOV",
+          "type": "video",
+          "caption": "VID_00001"
+        },
+        {
+          "src": "/photos/day1/videos/VID_001.MOV",
+          "type": "video",
+          "caption": "VID_001"
+        },
+        {
+          "src": "/photos/day1/videos/VID_1.MOV",
           "type": "video",
           "caption": "VID_1"
+        },
+        {
+          "src": "/photos/day1/videos/VID_01.mp4",
+          "type": "video",
+          "caption": "VID_01"
+        },
+        {
+          "src": "/photos/day1/videos/VID_2_1.MOV",
+          "type": "video",
+          "caption": "VID_2_1"
         },
         {
           "src": "/photos/day1/videos/VID_2.mp4",
@@ -440,6 +465,11 @@ export const photosData = {
           "caption": "VID_3"
         },
         {
+          "src": "/photos/day1/videos/VID_4_1.MOV",
+          "type": "video",
+          "caption": "VID_4_1"
+        },
+        {
           "src": "/photos/day1/videos/VID_4.mp4",
           "type": "video",
           "caption": "VID_4"
@@ -450,9 +480,14 @@ export const photosData = {
           "caption": "VID_5"
         },
         {
-          "src": "/photos/day1/videos/VID_6.mp4",
+          "src": "/photos/day1/videos/VID_6.MOV",
           "type": "video",
           "caption": "VID_6"
+        },
+        {
+          "src": "/photos/day1/videos/VID_7.mp4",
+          "type": "video",
+          "caption": "VID_7"
         }
       ]
     }
@@ -728,9 +763,29 @@ export const photosData = {
       ],
       "videos": [
         {
+          "src": "/photos/day2/videos/VID_0_1.MOV",
+          "type": "video",
+          "caption": "VID_0_1"
+        },
+        {
+          "src": "/photos/day2/videos/VID_0.MOV",
+          "type": "video",
+          "caption": "VID_0"
+        },
+        {
           "src": "/photos/day2/videos/VID_1.mp4",
           "type": "video",
           "caption": "VID_1"
+        },
+        {
+          "src": "/photos/day2/videos/VID_2_1.MOV",
+          "type": "video",
+          "caption": "VID_2_1"
+        },
+        {
+          "src": "/photos/day2/videos/VID_2_2.MOV",
+          "type": "video",
+          "caption": "VID_2_2"
         },
         {
           "src": "/photos/day2/videos/VID_2.mp4",
@@ -741,6 +796,11 @@ export const photosData = {
           "src": "/photos/day2/videos/VID_3.mp4",
           "type": "video",
           "caption": "VID_3"
+        },
+        {
+          "src": "/photos/day2/videos/VID_4_1.MOV",
+          "type": "video",
+          "caption": "VID_4_1"
         },
         {
           "src": "/photos/day2/videos/VID_4.mp4",
@@ -1079,9 +1139,29 @@ export const photosData = {
       ],
       "videos": [
         {
+          "src": "/photos/day3/videos/VID_0_1.MOV",
+          "type": "video",
+          "caption": "VID_0_1"
+        },
+        {
+          "src": "/photos/day3/videos/VID_0_2.MOV",
+          "type": "video",
+          "caption": "VID_0_2"
+        },
+        {
+          "src": "/photos/day3/videos/VID_0_3.MOV",
+          "type": "video",
+          "caption": "VID_0_3"
+        },
+        {
           "src": "/photos/day3/videos/VID_0.mp4",
           "type": "video",
           "caption": "VID_0"
+        },
+        {
+          "src": "/photos/day3/videos/VID_1_1.MOV",
+          "type": "video",
+          "caption": "VID_1_1"
         },
         {
           "src": "/photos/day3/videos/VID_1.mp4",
@@ -1127,6 +1207,11 @@ export const photosData = {
           "src": "/photos/day3/videos/VID_9.mp4",
           "type": "video",
           "caption": "VID_9"
+        },
+        {
+          "src": "/photos/day3/videos/VID_10.MOV",
+          "type": "video",
+          "caption": "VID_10"
         }
       ]
     }
