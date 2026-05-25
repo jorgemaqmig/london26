@@ -102,7 +102,6 @@ const tripData = [
       { src: '/photos/day1/bigben.jpg', caption: 'Big Ben' },
       { src: '/photos/day1/londoneye.jpg', caption: 'London Eye' },
       { src: '/photos/day1/trafalgar.jpg', caption: 'Trafalgar Square' },
-      { src: '/photos/day1/covidwall.jpg', caption: 'Memorial COVID' },
       { src: '/photos/day1/nationalgallery.jpg', caption: 'National Gallery' },
       { src: '/photos/day1/coventgarden.jpg', caption: 'Covent Garden' },
       { src: '/photos/day1/chinatown.jpg', caption: 'Chinatown' },
